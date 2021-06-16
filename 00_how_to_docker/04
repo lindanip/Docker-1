@@ -1,0 +1,3 @@
+# get the hello world container from docker hub
+
+docker pull hello world 

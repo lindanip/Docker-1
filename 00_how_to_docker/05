@@ -1,0 +1,3 @@
+# lunch the hello-world container
+
+docker container run hello-world
